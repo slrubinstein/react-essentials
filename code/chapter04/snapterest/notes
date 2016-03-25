@@ -1,0 +1,5 @@
+Andrew Ray Blog - React for Stupid People
+
+"You can always tell how your compoonent will render by looking at one source file"
+
+Each component has a render function, which shows you the rendered output. Easy to reason about, always look to the same place, don't have to know the whole application flow
